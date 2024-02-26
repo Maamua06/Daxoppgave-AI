@@ -3,5 +3,15 @@ h1 {
 }
 
 img {
-    margin-left: 13%;
+    margin-left: 10%;
+    width: 300px;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.rundell-container {
+
 }

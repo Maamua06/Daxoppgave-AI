@@ -9,3 +9,10 @@ const images =  [
     'nfs_share/images/DALL·E 2024-02-25 13.55.45 - Reimagine the scene with a specific color scheme_ the robot dragon now has a striking red tint to its metallic body, symbolizing its fiery nature and .webp',
 ]
 
+function showImages() {
+    rundellContent.innerHTML = '';
+    images.forEach((image ,index) => {
+        const imgElement = document.createElement('img');
+        imgElement.src = image;
+    })
+}
