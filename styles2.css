@@ -1,0 +1,36 @@
+@media only screen and (max-width: 600px) {
+    h1 {
+        text-align: center;
+        margin-top: 2%;
+    }
+    
+    img {
+        margin-left: 10%;
+        width: 300px;
+        
+    }
+    
+    h3 {
+        text-align: center;
+        margin-top: 20%;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+}
+
+
+h1, h3 {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    margin-left: 10%;
+}
